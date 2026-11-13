@@ -1,6 +1,6 @@
 # 发布到 GitHub
 
-1. 把 README、docs、RELEASE_NOTES 里的 `chenhao` 替换成 GitHub 用户名。
+1. 把 README、docs、RELEASE_NOTES 里的 `bailixiyuan` 替换成 GitHub 用户名。
 2. 新建仓库（建议公开、不勾选自动生成 README）。
 3. 初始化并推送：
 
@@ -10,7 +10,7 @@
    git add .
    git commit -m "TouchBarPal 1.0"
    git branch -M main
-   git remote add origin git@github.com:chenhao/TouchBarPal.git
+   git remote add origin git@github.com:bailixiyuan/TouchBarPal.git
    git push -u origin main
    ```
 

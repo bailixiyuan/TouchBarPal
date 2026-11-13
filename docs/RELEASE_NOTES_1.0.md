@@ -29,7 +29,7 @@ Universal 2（`arm64` + `x86_64`），要求 macOS 13.0+ 与 Touch Bar 硬件。
 
 ## 安装
 
-见 [docs/INSTALL.md](https://github.com/chenhao/TouchBarPal/blob/main/docs/INSTALL.md)。
+见 [docs/INSTALL.md](https://github.com/bailixiyuan/TouchBarPal/blob/main/docs/INSTALL.md)。
 
 App 为本地签名、未公证。首次打开请右键 →「打开」，或：
 
@@ -45,4 +45,4 @@ xattr -dr com.apple.quarantine /Applications/TouchBarPal.app
 - 未公证，无法上架 Mac App Store。
 - 快捷键与粘贴依赖辅助功能权限。
 
-**完整说明：** https://github.com/chenhao/TouchBarPal
+**完整说明：** https://github.com/bailixiyuan/TouchBarPal

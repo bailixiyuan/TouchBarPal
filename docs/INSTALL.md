@@ -46,7 +46,7 @@ shasum -a 256 ~/Downloads/TouchBarPal-1.0-universal.dmg
 ## 从源码安装
 
 ```bash
-git clone https://github.com/chenhao/TouchBarPal.git
+git clone https://github.com/bailixiyuan/TouchBarPal.git
 cd TouchBarPal
 ./install.sh
 ```

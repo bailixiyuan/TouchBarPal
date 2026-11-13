@@ -128,7 +128,7 @@ shasum -a 256 TouchBarPal-1.0-universal.dmg
 只需要 Command Line Tools（不需要完整 Xcode）：
 
 ```bash
-git clone https://github.com/chenhao/TouchBarPal.git
+git clone https://github.com/bailixiyuan/TouchBarPal.git
 cd TouchBarPal
 ./build.sh --universal   # 或 ./build.sh 只构建当前架构
 open .build

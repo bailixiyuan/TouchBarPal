@@ -17,7 +17,7 @@ swiftc --version
 ## 构建
 
 ```bash
-git clone https://github.com/chenhao/TouchBarPal.git
+git clone https://github.com/bailixiyuan/TouchBarPal.git
 cd TouchBarPal
 ./build.sh
 ```
